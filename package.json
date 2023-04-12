@@ -1,0 +1,17 @@
+{
+  "name": "cypress_study",
+  "version": "1.0.0",
+  "description": "cypress study",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "mahardikarahman",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
